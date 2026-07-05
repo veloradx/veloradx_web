@@ -1,0 +1,11 @@
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Domain\bin\Release\net10.0\VeloraDX.Domain.deps.json
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Domain\bin\Release\net10.0\VeloraDX.Domain.dll
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Domain\bin\Release\net10.0\VeloraDX.Domain.pdb
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Domain\obj\Release\net10.0\VeloraDX.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Domain\obj\Release\net10.0\VeloraDX.Domain.AssemblyInfoInputs.cache
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Domain\obj\Release\net10.0\VeloraDX.Domain.AssemblyInfo.cs
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Domain\obj\Release\net10.0\VeloraDX.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Domain\obj\Release\net10.0\VeloraDX.Domain.dll
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Domain\obj\Release\net10.0\refint\VeloraDX.Domain.dll
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Domain\obj\Release\net10.0\VeloraDX.Domain.pdb
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Domain\obj\Release\net10.0\ref\VeloraDX.Domain.dll

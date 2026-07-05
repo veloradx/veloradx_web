@@ -1,0 +1,17 @@
+{
+  "buildCommand": "cd web && npm install && npm run build",
+  "installCommand": "cd web && npm install",
+  "startCommand": "cd web && npm start",
+  "outputDirectory": "web/.next",
+  "framework": "nextjs",
+  "env": {
+    "NEXT_PUBLIC_API_URL": {
+      "description": "Backend API URL",
+      "required": true
+    }
+  },
+  "regions": ["iad1"],
+  "git": {
+    "deploymentEnabled": true
+  }
+}

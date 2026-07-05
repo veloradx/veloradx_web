@@ -1,0 +1,17 @@
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\bin\Debug\net10.0\VeloraDX.Infrastructure.deps.json
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\bin\Debug\net10.0\VeloraDX.Infrastructure.dll
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\bin\Debug\net10.0\VeloraDX.Infrastructure.pdb
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\bin\Debug\net10.0\VeloraDX.Application.dll
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\bin\Debug\net10.0\VeloraDX.Domain.dll
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\bin\Debug\net10.0\VeloraDX.Domain.pdb
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\bin\Debug\net10.0\VeloraDX.Application.pdb
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\obj\Debug\net10.0\VeloraDX.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\obj\Debug\net10.0\VeloraDX.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\obj\Debug\net10.0\VeloraDX.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\obj\Debug\net10.0\VeloraDX.Infrastructure.AssemblyInfo.cs
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\obj\Debug\net10.0\VeloraDX.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\obj\Debug\net10.0\VeloraDX.C7D49E81.Up2Date
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\obj\Debug\net10.0\VeloraDX.Infrastructure.dll
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\obj\Debug\net10.0\refint\VeloraDX.Infrastructure.dll
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\obj\Debug\net10.0\VeloraDX.Infrastructure.pdb
+C:\Users\kayac\veloradx\web\velora_web2\api\VeloraDX.Infrastructure\obj\Debug\net10.0\ref\VeloraDX.Infrastructure.dll

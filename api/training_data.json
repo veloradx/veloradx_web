@@ -1,0 +1,451 @@
+{
+  "training_data": [
+    {
+      "id": 1,
+      "intent": "greeting",
+      "category": "general",
+      "questions": [
+        "merhaba",
+        "selam",
+        "hey",
+        "buna nasılsın",
+        "hoşça kalın"
+      ],
+      "answer": "Merhaba! 👋 VeloraDX Asistanı'na hoş geldiniz. Şirketimiz, ürünlerimiz, hizmetlerimiz veya herhangi bir konu hakkında sorularınız varsa yanıtlamaktan mutluyum."
+    },
+    {
+      "id": 2,
+      "intent": "what_is_veloradx",
+      "category": "company",
+      "questions": [
+        "VeloraDX nedir",
+        "VeloraDX kim",
+        "VeloraDX hakkında bilgi ver",
+        "siz kimsiniz",
+        "VeloraDX nasıl bir şirket"
+      ],
+      "answer": "VeloraDX, yapay zeka entegrasyonu ve dijital dönüşümde uzman bir danışmanlık ve yazılım geliştirme şirketidir. Türkiye'deki işletmelerin AI yolculuğunda yanlarında yer almaktan gurur duyuyoruz. 50+ proje başarıyla tamamladık ve 35+ profesyonelden oluşan bir ekibe sahibiz."
+    },
+    {
+      "id": 3,
+      "intent": "services_overview",
+      "category": "services",
+      "questions": [
+        "hangi hizmetler sunuyorsunuz",
+        "ne gibi hizmetler var",
+        "hizmetleriniz neler",
+        "sizden ne alabilirim",
+        "nasıl yardım edebilirsiniz"
+      ],
+      "answer": "Şu hizmetleri sunuyoruz:\n\n🚀 **Kurumsal AI Dönüşümü** - 7 adımlı metodoloji ile işletmenizi AI ile güçlendirir\n🔍 **Saha Ziyareti İle Keşif** - Danışmanlarımız yerinde ziyaret ederek AI fırsatlarını keşfeder\n💻 **Yazılım Geliştirme** - Özel AI ve web uygulamaları\n🤝 **Danışmanlık** - Stratejik rehberlik ve planlama\n\nBütün detaylar için /hizmetler sayfasını ziyaret edin."
+    },
+    {
+      "id": 4,
+      "intent": "services_ai_transformation",
+      "category": "services",
+      "questions": [
+        "Kurumsal AI Dönüşümü nedir",
+        "AI dönüşüm hizmetiniz ne",
+        "7 adımlı metodoloji nedir",
+        "AI dönüşümü nasıl yapıyorsunuz",
+        "dönüşüm süreci kaç ay sürer"
+      ],
+      "answer": "Kurumsal AI Dönüşümü, işletmenizi yapay zeka ile modern bir şirkete dönüştüren 7 adımlı profesyonel bir programdır:\n\n1️⃣ Danışmanlık - Mevcut durumu analiz\n2️⃣ Pilot - Küçük ölçekli test\n3️⃣ İmplementasyon - Tam dağıtım\n4️⃣ Optimizasyon - Performans iyileştirme\n5️⃣ Eğitim - Takımınızı eğit\n6️⃣ İkinci Optimizasyon - Fine-tuning\n7️⃣ Sürekli İyileştirme - Devam eden destek\n\nSüre: İşletmenizin büyüklüğüne göre 3-6 ay."
+    },
+    {
+      "id": 5,
+      "intent": "services_field_discovery",
+      "category": "services",
+      "questions": [
+        "Saha Ziyareti İle Keşif nedir",
+        "saha ziyareti ne demek",
+        "danışmanlar bize gelir mi",
+        "ne zaman ziyaret edebilirsiniz",
+        "keşif süreci nasıl işler"
+      ],
+      "answer": "Saha Ziyareti İle Keşif, danışmanlarımızın işletmenizi yerinde ziyaret ederek gizli AI fırsatlarını ve optimizasyon potansiyelini keşfettiği bir hizmettir.\n\n4 Aşama:\n🎯 Hazırlık - Bilgi toplama\n🏢 Saha - Yerinde inceleme\n📊 Analiz - Bulguları raporlama\n📋 Sunum - Öneriler ve eylem planı\n\nZiyaret: Yıl içinde istediğiniz zaman düzenlenebilir."
+    },
+    {
+      "id": 6,
+      "intent": "products_overview",
+      "category": "products",
+      "questions": [
+        "hangi ürünleriniz var",
+        "ne gibi ürünler sunuyorsunuz",
+        "ürün listesi nedir",
+        "yazılım çözümleriniz neler"
+      ],
+      "answer": "VeloraDX'in 10+ AI ürünü vardır:\n\n🤖 **AI Voice Agents** - Sesli yapay zeka ajanları\n💼 **VeloraDX CRM** - Satış yönetim sistemi\n📦 **VeloraDX ERP** - İş yönetim sistemi\n👥 **HRFlow** - İnsan kaynakları yönetimi\n📍 **Kurye Takip** - Lojistik takip sistemi\n🏭 **WMS** - Depo yönetim sistemi\n\nVe 4+ daha... Detaylar için /urunler sayfasını ziyaret edin."
+    },
+    {
+      "id": 7,
+      "intent": "products_ai_voice",
+      "category": "products",
+      "questions": [
+        "AI Voice Agents nedir",
+        "sesli yapay zeka ne",
+        "otomasyonlu çağrı sistemi",
+        "botta kim soruları yanıtlıyor",
+        "telefonun öbür ucunda bot var mı"
+      ],
+      "answer": "AI Voice Agents, telefonoda konuşan, anlayan ve müşteri sorunlarını çözen yapay zeka ajanlarıdır.\n\n✨ Kullanım Alanları:\n📞 Çağrı merkezleri - Gelen çağrıları yönet\n🏥 Klinikler - Randevu al\n🛍️ E-ticaret - Sipariş takibi\n📱 Telemarketing - Otomatik arama\n\n24/7 çalışır, İnsan gibi konuşur, Masraf 90% azalır."
+    },
+    {
+      "id": 8,
+      "intent": "products_crm",
+      "category": "products",
+      "questions": [
+        "VeloraDX CRM nedir",
+        "CRM sistemi nasıl çalışır",
+        "müşteri yönetimi yazılımı",
+        "satış takip sistemi var mı"
+      ],
+      "answer": "VeloraDX CRM, satış sürecinizi tamamen yöneten, AI ile lead skorlama yapan ve müşteri ilişkilerini optimize eden profesyonel bir CRM sistemidir.\n\n🎯 Özellikler:\n📊 Satış pipeline görünürlüğü\n🤖 AI lead skorlama\n📧 Otomatik takip\n💰 Gelir tahmini\n🔄 CRM entegrasyonu\n\nSonuç: %40 daha fazla satış, %60 daha hızlı cycle."
+    },
+    {
+      "id": 9,
+      "intent": "products_erp",
+      "category": "products",
+      "questions": [
+        "VeloraDX ERP nedir",
+        "ERP sistemi ne yapıyor",
+        "işletme yönetim sistemi",
+        "stok muhasebe yönetimi"
+      ],
+      "answer": "VeloraDX ERP, stok, satın alma, üretim, muhasebe ve finansmanı yöneten modüler, akıllı bir sistem. AI agent'lar otonom kararlar alır.\n\n📦 Modüller:\n🏭 Üretim - Kaynak planlaması\n📊 Muhasebe - Mali işler\n🛍️ Satış - Sipariş yönetimi\n🏪 Stok - Envanter kontrol\n💳 Finans - Bütçe takibi\n\nAI: Otonom kararlar, anomali tespiti, tahmin."
+    },
+    {
+      "id": 10,
+      "intent": "mission",
+      "category": "company",
+      "questions": [
+        "misyonunuz nedir",
+        "misyon nedir",
+        "sizin amacınız ne",
+        "ne için varız"
+      ],
+      "answer": "**Misyonumuz:**\n\nYapay zeka ve modern teknolojileri kullanarak işletmelerin dijital dönüşümünü hızlandırır, verimliliğini artırırız. Her işletmeyi modern, teknoloji-odaklı bir şirkete dönüştürmek istiyoruz.\n\nDetaylı bilgi için /hakkimizda/misyon sayfasını ziyaret edin."
+    },
+    {
+      "id": 11,
+      "intent": "vision",
+      "category": "company",
+      "questions": [
+        "vizyonunuz nedir",
+        "vizyon nedir",
+        "gelecekte ne olmak istiyorsunuz",
+        "hayaliniz nedir"
+      ],
+      "answer": "**Vizyonumuz:**\n\nTürkiye'deki tüm işletmelerin AI teknolojisinden yararlanabildiği, erişilebilir ve ekonomik çözümler sunmak. Yapay zekanın demokratikleştirilmesi ve herkes için ulaşılabilir hale getirilmesi.\n\nDetaylı bilgi için /hakkimizda/vizyon sayfasını ziyaret edin."
+    },
+    {
+      "id": 12,
+      "intent": "contact_phone",
+      "category": "contact",
+      "questions": [
+        "telefon numaranız nedir",
+        "kaç numaradan arayabilirim",
+        "telefon numarası nedir",
+        "size nasıl ulaşabilirim",
+        "telefon ile iletişim"
+      ],
+      "answer": "📞 Telefon numaramız: **+90 532 662 57 82**\n\nBize şunlarla da ulaşabilirsiniz:\n💬 WhatsApp: wa.me/905326625782\n📧 Email: info@veloradx.com\n🏢 Adres: Esentepe, Büyükdere Cd. No: 195, 34394 Şişli/İstanbul"
+    },
+    {
+      "id": 13,
+      "intent": "contact_email",
+      "category": "contact",
+      "questions": [
+        "email adresiniz nedir",
+        "e-posta adresiniz",
+        "maille nasıl iletişim kurabilirim",
+        "email adresi"
+      ],
+      "answer": "📧 Email adresimiz: **info@veloradx.com**\n\nBizi şunlarla da arayabilirsiniz:\n📞 Telefon: +90 532 662 57 82\n💬 WhatsApp: wa.me/905326625782\n📝 İletişim formu: /iletisim"
+    },
+    {
+      "id": 14,
+      "intent": "contact_address",
+      "category": "contact",
+      "questions": [
+        "adresiniz nedir",
+        "nerede bulunuyorsunuz",
+        "ofis adresi",
+        "nasıl bulabilirim",
+        "yerini söyler misin"
+      ],
+      "answer": "🏢 Ofis Adresimiz:\n**Esentepe, Büyükdere Cd. No: 195, 34394 Şişli/İstanbul**\n\nİstanbul'un kalp atışında, Şişli'de bulunuyoruz.\n\nBize ulaşın:\n📞 +90 532 662 57 82\n💬 WhatsApp: wa.me/905326625782\n📧 Email: info@veloradx.com"
+    },
+    {
+      "id": 15,
+      "intent": "contact_whatsapp",
+      "category": "contact",
+      "questions": [
+        "whatsapp var mı",
+        "whatsapp numaranız",
+        "whatsapp ile yazabilir miyim",
+        "whatsapp iletişim"
+      ],
+      "answer": "💬 Evet! WhatsApp üzerinden anında iletişim kurabilirsiniz.\n\n**WhatsApp:** wa.me/905326625782\n\nOr call/text: +90 532 662 57 82\n\nEn hızlı yanıt için WhatsApp'ı kullanmanızı öneririz! ⚡"
+    },
+    {
+      "id": 16,
+      "intent": "contact_form",
+      "category": "contact",
+      "questions": [
+        "form yoluyla nasıl iletişim kurabilirim",
+        "iletişim formu",
+        "detaylı mesaj göndermek istiyorum",
+        "form doldurabilir miyim"
+      ],
+      "answer": "📋 İletişim Formu aracılığıyla detaylı mesaj gönderebilirsiniz.\n\n👉 Form linki: /iletisim\n\nForm üzerinden:\n✅ Adınız, email, telefon\n✅ Şirket adı\n✅ Detaylı mesajınız\n✅ Konuyu belirtin\n\nTamamladıktan sonra hızlıca sizinle iletişime geçeceğiz!"
+    },
+    {
+      "id": 17,
+      "intent": "careers_hiring",
+      "category": "careers",
+      "questions": [
+        "işe alıyor musunuz",
+        "kariyer fırsatları",
+        "açık pozisyon var mı",
+        "sizde çalışabilir miyim",
+        "yetenek arıyorsunuz"
+      ],
+      "answer": "🎯 Evet! Şu an yetenekli profesyonelleri arıyoruz.\n\n👥 Aranan Pozisyonlar:\n🤖 AI/ML Mühendisleri\n💻 Senior Yazılım Geliştirici\n📊 Veri Bilimci\n🚀 DevOps Engineer\n🎨 UI/UX Designer\n💼 Satış Danışmanı\n\n💼 Tüm açık pozisyonlar: /kariyer\n\n📧 CV gönder: kariyer@veloradx.com\n\nBenefitler: Uzaktan çalışma, Sürekli öğrenme, Rekabetçi maaş, Güçlü takım, Gerçek etki."
+    },
+    {
+      "id": 18,
+      "intent": "careers_benefits",
+      "category": "careers",
+      "questions": [
+        "çalışma koşulları nasıl",
+        "sosyal haklar neler",
+        "maaş ne kadar",
+        "avantajlar neler",
+        "remote çalışılabilir mi"
+      ],
+      "answer": "✨ VeloraDX'te Çalışmanın Avantajları:\n\n🏠 **Uzaktan Çalışma** - Dünyanın herhangi yerinden\n📚 **Sürekli Öğrenme** - AI/ML kursları, konferanslar\n💰 **Rekabetçi Maaş** - Sektör ortalaması ve üzeri\n🤝 **Güçlü Takım** - Harika meslektaşlar\n💡 **Gerçek Etki** - Anlamlı projeler\n🎓 **Mentorship** - Deneyimli mentorlar\n🎉 **Sosyal Etkinlikler** - Takım aktiviteleri\n📱 **Esnek Saatler** - Work-life balance\n\nDetaylı bilgi: /kariyer"
+    },
+    {
+      "id": 19,
+      "intent": "blog_where",
+      "category": "blog",
+      "questions": [
+        "blog nerde",
+        "makale okuyabilir miyim",
+        "yazı yazıyorsunuz mu",
+        "güncellemeler nerde",
+        "son haberler"
+      ],
+      "answer": "📝 Blog ve makalerimiz şu adreste:\n\n👉 /blog\n\nSon makalelerimiz:\n📌 AI Trendleri 2024\n📌 Yazılım Geliştirmede Yapay Zeka\n📌 İşletmelerin Dijital Dönüşümü\n📌 Veri Güvenliği Rehberi\n\nHer hafta yeni makaleler ekleniyor. Takip etmek için blog'a abone olabilirsiniz! 🔔"
+    },
+    {
+      "id": 20,
+      "intent": "case_studies",
+      "category": "company",
+      "questions": [
+        "başarı örnekleri neler",
+        "projeleri görebilir miyim",
+        "case study var mı",
+        "daha önce ne işler yaptınız",
+        "referanslar"
+      ],
+      "answer": "📊 Başarılı Projelerimiz:\n\nSon 5 yılda 50+ proje başarıyla tamamladık.\n\n🎯 Örnek Projeler:\n• E-ticaret sitesinde %45 satış artışı (AI önerisi)\n• Çağrı merkezi otomasyonu (90% maliyet azalış)\n• ERP implementasyonu (100+ kişi firma)\n• Veri analiz platformu (Big Data)\n• Mobil app geliştirme (500k+ kullanıcı)\n\nDetaylı case study'ler: /projeler"
+    },
+    {
+      "id": 21,
+      "intent": "team_info",
+      "category": "company",
+      "questions": [
+        "takımınız kimlerden oluşuyor",
+        "kaç kişi çalışıyor",
+        "takım hakkında",
+        "deneyim ne kadar",
+        "kim lider"
+      ],
+      "answer": "👥 **VeloraDX Takımı:**\n\n📊 Takım Boyutu: **35+ profesyonel**\n\n🎯 Ekip Yapısı:\n🤖 AI/ML Mühendisleri (12+)\n💻 Full-Stack Developers (10+)\n📊 Veri Bilimcileri (5+)\n🎨 UI/UX Tasarımcıları (3+)\n💼 Proje Yöneticileri (3+)\n👨‍💼 Danışmanlar (2+)\n\n📈 Deneyim: Ortalama **15+ yıl** teknik tecrübe\n\n🏆 Biz İstanbul'daki en deneyimli AI ekiplerinden biriyiz."
+    },
+    {
+      "id": 22,
+      "intent": "why_now_ai",
+      "category": "company",
+      "questions": [
+        "neden şimdi AI",
+        "AI neden önemli",
+        "AI'ya neden ihtiyaç var",
+        "rakiplerim dönüşüyor",
+        "geride kalmam mı"
+      ],
+      "answer": "⚠️ **Neden ŞİMDİ AI Dönüşümü:**\n\n1️⃣ **Rekabet** - Rakipleriniz zaten dönüşüyor\n2️⃣ **Hız** - AI ile 10x daha hızlı\n3️⃣ **Maliyet** - Operasyon maliyeti 40-60% düşer\n4️⃣ **Kalite** - Hata ve kayıplar azalır\n5️⃣ **Müşteri** - Müşteri memnuniyeti artar\n6️⃣ **İnsan** - Değerli işlere odaklanır\n7️⃣ **Gelecek** - Teknoloji standart olacak\n\n❌ **Sonuç:** AI'dan uzak kalmak = Geride kalmak\n✅ **Çözüm:** Şimdi başla, erken faydaları al!"
+    },
+    {
+      "id": 23,
+      "intent": "integration_how",
+      "category": "technical",
+      "questions": [
+        "API var mı",
+        "entegrasyonu nasıl yapıyoruz",
+        "teknik döküman",
+        "API dokümantasyonu",
+        "sisteminize bağlanabilir miyim"
+      ],
+      "answer": "🔌 **Teknik Entegrasyon:**\n\nTüm ürünlerimizin modern API'leri vardır.\n\n📚 Dokümantasyon:\n🔗 REST API - Standart endpoints\n🔐 OAuth 2.0 - Güvenli kimlik doğrulama\n📊 Webhook - Real-time etkinlikler\n🔄 SDK - Python, Node.js, C#\n\n✅ Desteklediğimiz Platformlar:\n☁️ AWS, Azure, GCP\n🗄️ MySQL, PostgreSQL\n📱 iOS, Android\n🌐 Web (React, Vue, Angular)\n\n📖 Teknik dokümantasyon: /docs (api.veloradx.com)\n📧 Teknik destek: tech@veloradx.com"
+    },
+    {
+      "id": 24,
+      "intent": "pricing_cost",
+      "category": "commercial",
+      "questions": [
+        "fiyat ne kadar",
+        "maliyeti nedir",
+        "paket seçenekleri",
+        "indirim var mı",
+        "bedeli nedir"
+      ],
+      "answer": "💰 **Fiyatlandırma:**\n\nFiyatlar işletmenizin büyüklüğüne ve ihtiyaçlarına göre değişir.\n\n📦 Paket Türleri:\n🟢 **Starter** - Küçük işletmeler (1-50 kişi)\n🔵 **Professional** - Orta ölçek (50-500 kişi)\n🟣 **Enterprise** - Büyük şirketler (500+ kişi)\n⚡ **Custom** - Spesifik ihtiyaçlar\n\n✨ Özel Olanaklar:\n📉 Yıllık kontrakt indirim\n🎁 Startup desteği\n🤝 Ortak markalaşma\n\n💬 Detaylı fiyat için bize ulaşın: info@veloradx.com"
+    },
+    {
+      "id": 25,
+      "intent": "training_support",
+      "category": "services",
+      "questions": [
+        "eğitim veriyor musunuz",
+        "öğrenme materyali nedir",
+        "takımı nasıl eğitirim",
+        "teknik destek var mı",
+        "after-sales hizmet"
+      ],
+      "answer": "📚 **Eğitim ve Destek:**\n\n🎓 Eğitim Programları:\n👨‍🏫 Live Workshops (haftalık)\n📹 Video Tutorials (on-demand)\n📖 Dokümantasyon (kapsamlı)\n👥 Grup Eğitimleri (your team)\n1️⃣1️⃣ One-on-One Coaching\n\n🛠️ Teknik Destek:\n📞 24/7 Support Line\n💬 Slack Channel\n🎫 Ticket System\n🚀 Dedicated Account Manager\n\n✅ SLA Garantisi: 2 saat yanıt süresi\n\n📧 Destek: support@veloradx.com"
+    },
+    {
+      "id": 26,
+      "intent": "security_privacy",
+      "category": "technical",
+      "questions": [
+        "güvenlik nasıl",
+        "veriler güvende mi",
+        "privacy nedir",
+        "GDPR uyumlu mu",
+        "şifreleme var mı"
+      ],
+      "answer": "🔐 **Güvenlik ve Gizlilik:**\n\n✅ Sertifikalar:\n🏆 ISO 27001 (Bilgi Güvenliği)\n🏆 ISO 9001 (Kalite Yönetimi)\n🏆 GDPR Uyumlu\n🏆 KVKK Uyumlu\n\n🛡️ Teknik Güvenlik:\n🔒 End-to-End Şifreleme\n🔑 256-bit SSL/TLS\n🚨 DDoS Koruması\n🔄 Günlük Backup\n🌍 Coğrafi Redundancy\n\n👁️ Veri İmzası:\n✓ Müşteri verilerine erişim yok\n✓ Veriler kendi sunucularınızda\n✓ Düzenli audit ve penetration test\n\n📋 Gizlilik Politikası: /privacy\n🏛️ Yasal Şartlar: /terms"
+    },
+    {
+      "id": 27,
+      "intent": "partnership_collaboration",
+      "category": "commercial",
+      "questions": [
+        "ortaklık yapabilir miyiz",
+        "reseller olmak istiyorum",
+        "işbirliği fırsatları",
+        "distribütörlük",
+        "channel partner"
+      ],
+      "answer": "🤝 **İşbirliği ve Ortaklık Programları:**\n\n📌 Fırsatlar:\n🤝 **Technology Partners** - Entegrasyon ortağı\n🛍️ **Reseller Program** - Ürün satıcısı\n👥 **Referral Program** - Referans için komisyon\n🌐 **Distribution** - Bölgesel distribütörler\n📚 **Training Partners** - Eğitim sağlayıcı\n\n💡 Partner Avantajları:\n✅ %25-40 Marj\n✅ Marketing Desteği\n✅ Teknik Training\n✅ Dedicated Acount Manager\n✅ Priority Support\n\n📧 Ortaklık Talebi: partnership@veloradx.com"
+    },
+    {
+      "id": 28,
+      "intent": "implementation_timeline",
+      "category": "services",
+      "questions": [
+        "kurulum kaç ay sürer",
+        "proje timetable nedir",
+        "ne kadar sürer",
+        "hızlı mı",
+        "timeline nedir"
+      ],
+      "answer": "⏱️ **Proje Süresi:**\n\n🕐 Tipik Timeline:\n**Kurumsal AI Dönüşümü:** 3-6 ay\n**Saha Ziyareti:** 2-4 hafta\n**CRM Kurulum:** 4-8 hafta\n**ERP Kurulum:** 3-5 ay\n**Custom Geliştirme:** Proje bazlı\n\n⚡ Hızlandırabiliriz:\n✓ Daha çok kaynak atama\n✓ Agile metodoloji\n✓ Parallel streams\n✓ Pre-built solutions\n\n📊 Kritik Faktörler:\n• İşletme karmaşıklığı\n• Mevcut sistem durumu\n• Takım readiness\n• Veri kalitesi\n\n💬 Detaylı timeline: info@veloradx.com"
+    },
+    {
+      "id": 29,
+      "intent": "success_stories",
+      "category": "company",
+      "questions": [
+        "müşteri hikayeleri",
+        "testimonial var mı",
+        "müşteri memnuniyeti",
+        "referans müşteri",
+        "başarı yüzdesi"
+      ],
+      "answer": "⭐ **Müşteri Başarı Hikayeleri:**\n\n🏆 **Projeler:**\n✅ E-ticaret: %45 satış artışı\n✅ Çağrı Merkezi: 90% otomasyonu\n✅ Üretim: 35% verimlilik\n✅ Finans: Tahmin accuracy 92%\n✅ Otel: Occupancy %78 → %91\n\n📊 **Sayılar:**\n• 50+ Tamamlanan Proje\n• 95%+ Müşteri Memnuniyeti\n• 4.9/5 Ortalama Rating\n• 100% On-Time Delivery\n• 0 Proje İptal\n\n🎤 Referans Müşterilerimiz:\n• Fortune 500 Şirketler\n• Startup Unicorns\n• Devlet Kurumları\n• Fintech Şirketleri\n\n📖 Detaylı Case Study'ler: /projeler"
+    },
+    {
+      "id": 30,
+      "intent": "demo_trial",
+      "category": "commercial",
+      "questions": [
+        "demo görebilir miyim",
+        "deneme sürümü var mı",
+        "free trial",
+        "test edebilir miyim",
+        "live demo"
+      ],
+      "answer": "🎮 **Demo ve Deneme Sürümü:**\n\n✅ Mevcut Seçenekler:\n👁️ **Live Demo** - Canlı gösteri (30 min)\n🆓 **Free Trial** - 14 gün sınırsız erişim\n🎯 **Sandbox** - Gerçek verilerle test ortamı\n🖥️ **Webinar** - Grup sunumları (Pazartesi-Cuma)\n\n📋 Demo Rezervasyon:\n📅 Takvim: /demo-randevusu\n💬 Chat: Web sitemizden canlı destek\n📞 Telefon: +90 532 662 57 82\n📧 Email: demo@veloradx.com\n\n⏱️ İlk demo: 48 saat içinde düzenlenebilir\n\n🎁 Trial Avantajları:\n✓ Tüm features açık\n✓ Unlimited data\n✓ Priority support\n✓ No credit card needed"
+    },
+    {
+      "id": 31,
+      "intent": "thank_you",
+      "category": "general",
+      "questions": [
+        "teşekkür ederim",
+        "çok teşekkür",
+        "yardım için sağol",
+        "thanks",
+        "thanks a lot"
+      ],
+      "answer": "🙏 Rica ederim! Size yardımcı olabilmekten mutluyuz.\n\nHerhangi başka sorularınız varsa lütfen sormazdan çekinmeyin. Biz her zaman buradayız! 😊\n\n📞 Canlı destek için: +90 532 662 57 82\n💬 WhatsApp: wa.me/905326625782\n📧 Email: info@veloradx.com"
+    },
+    {
+      "id": 32,
+      "intent": "not_understood",
+      "category": "general",
+      "questions": [
+        "anlayamadım",
+        "ne demek",
+        "tekrar söyler misin",
+        "açıklar mısın",
+        "biraz saçma"
+      ],
+      "answer": "😅 Üzgünüm, sorunuzu tam olarak anlamadım.\n\nBenimle iletişim kurmayı deneyin:\n✅ \"Hizmetler neler?\"\n✅ \"Fiyat ne kadar?\"\n✅ \"Adresiniz nedir?\"\n✅ \"Kariyer fırsatları?\"\n\nVeya doğrudan ekiple iletişim kurabilirsiniz:\n📞 +90 532 662 57 82\n💬 WhatsApp: wa.me/905326625782\n📧 Email: info@veloradx.com\n📝 Form: /iletisim"
+    },
+    {
+      "id": 33,
+      "intent": "support_request",
+      "category": "services",
+      "questions": [
+        "teknik destek gerekli",
+        "sorun var",
+        "bug rapor etmek istiyorum",
+        "hata buldum",
+        "yardım lazım"
+      ],
+      "answer": "🆘 **Teknik Destek:**\n\n📞 Destek Kanalları:\n☎️ **Telefon:** +90 532 662 57 82 (24/7)\n💬 **WhatsApp:** wa.me/905326625782\n📧 **Email:** support@veloradx.com\n🎫 **Ticket System:** /support-ticket\n🚀 **Live Chat:** web sitemizde canlı destek\n\n⏱️ Yanıt Sürelerimiz:\n🟢 Critical: 30 dakika\n🟡 High: 2 saat\n🔵 Medium: 4 saat\n🟣 Low: 24 saat\n\n📋 Bilgiler:\n1. Sorunun açıklaması\n2. Hata mesajı (varsa)\n3. Ekran görüntüsü\n4. Tekrar etme adımları\n5. Sistem bilgileri\n\n🔧 Teknik Destek Takımımız hızlıca yardımcı olacak!"
+    },
+    {
+      "id": 34,
+      "intent": "scalability_growth",
+      "category": "technical",
+      "questions": [
+        "ölçeklenebilir mi",
+        "büyüyünce ne olur",
+        "müşteri arttıkça",
+        "yüksek trafiği kaldırır mı",
+        "growth ready"
+      ],
+      "answer": "📈 **Ölçeklenebilirlik:**\n\n✅ Sistem Yapısı:\n🏗️ **Cloud Native** - AWS/Azure/GCP\n🔄 **Auto-Scaling** - Otomatik kaynak artırma\n⚡ **Load Balancing** - Dağıtılmış işleme\n🗄️ **Database Sharding** - Veri dağıtımı\n🔒 **CDN Integration** - Global hızlı sunumu\n\n📊 Kapasiteler:\n🚀 Günde 1M+ requests\n📱 Milyon+ concurrent users\n🌍 Çoklu coğrafya\n🔄 Zero downtime deployment\n\n💪 Başarılı Ölçeklemeler:\n• StartUp → Unicorn (500k → 50M users)\n• Lokal → Global expansion\n• Seasonal spike handling (%500 trafik)\n\n🎯 Sonuç: Büyümeyle sistemi büyütebiliriz!"
+    },
+    {
+      "id": 35,
+      "intent": "competitor_comparison",
+      "category": "commercial",
+      "questions": [
+        "rakipleriyle karşılaştırması",
+        "neden sizi seçmeliyim",
+        "diğerlerinden farkı",
+        "avantajlar neler",
+        "neden VeloraDX"
+      ],
+      "answer": "🏆 **Neden VeloraDX?**\n\n📊 Karşılaştırma:\n✅ **Türkçe Destek** - 24/7 Türk ekip\n✅ **Lokal Bilgi** - Türk işletmeleri anlar\n✅ **Custom Solution** - Off-the-shelf değil\n✅ **Ucuz** - Enterprise kalitesi uygun fiyat\n✅ **Hızlı** - 48 saat demo, 2 hafta kurulum\n✅ **Deneyim** - 15+ yıl AI/ML tecrübesi\n✅ **Kalite** - ISO 27001, %95+ satisfaction\n✅ **Inovasyon** - Sürekli yeni özellikler\n✅ **Şeffaflık** - Gizli ücret yok\n✅ **Risk Azalması** - ROI garantisi\n\n💡 **Fark:**\n🎯 Partner, supplier değil\n📱 Telefonumuz açık, cevaplarız\n🚀 Başarınız bizim başarımız\n\n👉 Demo: /demo-randevusu"
+    }
+  ]
+}
