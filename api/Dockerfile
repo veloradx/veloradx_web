@@ -2,11 +2,11 @@ FROM mcr.microsoft.com/dotnet/sdk:9.0 AS builder
 
 WORKDIR /src
 
-COPY ["VeloraDX.sln", "."]
+COPY ["../VeloraDX.sln", "."]
 COPY ["VeloraDX.Api/", "VeloraDX.Api/"]
-COPY ["VeloraDX.Application/", "VeloraDX.Application/"]
-COPY ["VeloraDX.Infrastructure/", "VeloraDX.Infrastructure/"]
-COPY ["VeloraDX.Domain/", "VeloraDX.Domain/"]
+COPY ["../VeloraDX.Application/", "VeloraDX.Application/"]
+COPY ["../VeloraDX.Infrastructure/", "VeloraDX.Infrastructure/"]
+COPY ["../VeloraDX.Domain/", "VeloraDX.Domain/"]
 
 RUN dotnet restore "VeloraDX.sln"
 
@@ -16,11 +16,11 @@ FROM mcr.microsoft.com/dotnet/sdk:9.0 AS publish
 
 WORKDIR /src
 
-COPY ["VeloraDX.sln", "."]
+COPY ["../VeloraDX.sln", "."]
 COPY ["VeloraDX.Api/", "VeloraDX.Api/"]
-COPY ["VeloraDX.Application/", "VeloraDX.Application/"]
-COPY ["VeloraDX.Infrastructure/", "VeloraDX.Infrastructure/"]
-COPY ["VeloraDX.Domain/", "VeloraDX.Domain/"]
+COPY ["../VeloraDX.Application/", "VeloraDX.Application/"]
+COPY ["../VeloraDX.Infrastructure/", "VeloraDX.Infrastructure/"]
+COPY ["../VeloraDX.Domain/", "VeloraDX.Domain/"]
 
 RUN dotnet publish "VeloraDX.Api/VeloraDX.Api.csproj" -c Release -o /app/publish
 
