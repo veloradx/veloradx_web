@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/sdk:9.0 AS builder
+FROM mcr.microsoft.com/dotnet/sdk:10.0 AS builder
 
 WORKDIR /src
 
@@ -12,7 +12,7 @@ RUN dotnet restore "VeloraDX.sln"
 
 RUN dotnet build "VeloraDX.sln" -c Release -o /app/build
 
-FROM mcr.microsoft.com/dotnet/sdk:9.0 AS publish
+FROM mcr.microsoft.com/dotnet/sdk:10.0 AS publish
 
 WORKDIR /src
 
@@ -24,7 +24,7 @@ COPY ["../VeloraDX.Domain/", "VeloraDX.Domain/"]
 
 RUN dotnet publish "VeloraDX.Api/VeloraDX.Api.csproj" -c Release -o /app/publish
 
-FROM mcr.microsoft.com/dotnet/aspnet:9.0
+FROM mcr.microsoft.com/dotnet/aspnet:10.0
 
 WORKDIR /app
 
